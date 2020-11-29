@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206712299083",
+    "firebase_url": "https://maids-e9309.firebaseio.com",
+    "project_id": "maids-e9309",
+    "storage_bucket": "maids-e9309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206712299083:android:16b0147f29f0e9697537ce",
+        "android_client_info": {
+          "package_name": "com.maidsondemand.happydesire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206712299083-008uhpjr5itc2mhjblrl7e7b42c109q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbt2Gu88zDeUmqGLp1yc54nACK2MKtR3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206712299083-008uhpjr5itc2mhjblrl7e7b42c109q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
